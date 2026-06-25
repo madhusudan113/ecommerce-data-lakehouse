@@ -1,0 +1,4 @@
+payment_id,order_id,payment_method,amount
+1,1001,Credit Card,1000
+2,1002,UPI,800
+3,1003,Debit Card,600
